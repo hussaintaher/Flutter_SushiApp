@@ -1,4 +1,4 @@
-# student_info_app
+# student_info_app 🍣🍚
 - ListView | menu_page.dart
 - Getters | shop.dart
 - Add, Remove from a list | shop.dart 
