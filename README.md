@@ -1,6 +1,14 @@
 # student_info_app
-
-A new Flutter project.
+- ListView | menu_page.dart
+- Getters | shop.dart
+- Add, Remove from a list | shop.dart 
+- Models(Classes) such as shop, food… | ./lib/models/
+- State Management | food_details_page.dart
+- Routing | main.dart 
+- Passing props to widget | food_details_page.dart
+- Constants | ./lib/theme/colors.dart
+- showDialog | menu_page.dart
+- Provider | setup main.dart | menu_page.dart | Consumer in menu_page.dart
 
 ## Getting Started
 
